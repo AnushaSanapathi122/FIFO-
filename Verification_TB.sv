@@ -1,4 +1,4 @@
-//FIFO TESTBENCH CODE
+//FIFO TESTBENCH CODE  
 
 //1️⃣ FIFO Interface
 interface fifo_if(input logic clk);
