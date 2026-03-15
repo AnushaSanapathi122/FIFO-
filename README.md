@@ -209,9 +209,8 @@ Simulation is performed using **EDA Playground**.
 
 ### EDA Playground Link
 
-```
 https://www.edaplayground.com/x/Anmd
-```
+
 
 ---
 
@@ -222,25 +221,6 @@ https://www.edaplayground.com/x/Anmd
 3. Choose simulator (Riviera / Questa / Icarus)
 4. Click **Run**
 5. Enable **EPWave** to view waveforms
-
----
-
-# Waveform Signals
-
-Useful signals to observe in EPWave:
-
-
-```
-clk
-wr_en
-rd_en
-data_in
-data_out
-full
-empty
-```
-
----
 
 # Key Features
 
@@ -266,9 +246,5 @@ Possible enhancements:
 # Author
 Anusha Sanapathi
 
----
 
-1️⃣ **Badges (SystemVerilog / Verification / VLSI)**
-2️⃣ **A waveform screenshot section**
 
-These make recruiters notice your project immediately.
