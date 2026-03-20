@@ -207,6 +207,10 @@ PASS exp=23 act=23
 
 Simulation is performed using **EDA Playground**.
 
+# Waveform:
+<img width="1920" height="1080" alt="Screenshot 2026-03-15 112119" src="https://github.com/user-attachments/assets/e70403d6-caa6-4292-af52-29f1f2b147be" />
+
+
 ### EDA Playground Link
 
 https://www.edaplayground.com/x/Anmd
